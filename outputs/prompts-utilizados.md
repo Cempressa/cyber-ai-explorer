@@ -1,5 +1,3 @@
----
-
 ## 🎯 Diferença entre Phishing e Spear Phishing
 
 A tabela abaixo resume os principais contrastes entre os dois tipos de ataque, com base em fontes como IBM, Check Point e SentinelOne.
@@ -14,10 +12,6 @@ A tabela abaixo resume os principais contrastes entre os dois tipos de ataque, c
 | **Taxa de sucesso** | Baixa por volume | Alta por precisão |
 | **Objetivo comum** | Roubo de credenciais, instalação de malware, golpes financeiros | Comprometimento profundo, acesso privilegiado, fraude direcionada |
 | **Exemplo típico** | E-mail genérico de “atualize sua senha” | E-mail que parece vir do gestor da vítima solicitando ação urgente |
-
-Sources: 
-
----
 
 ## 🛡️ Boas práticas de defesa (Blue Team)
 
