@@ -24,6 +24,7 @@ Este repositório foi desenvolvido para o desafio de laboratório da **DIO (Digi
 
 ### 3. Geração de Arte Digital (Prompt Visual)
 * **Prompt:** "Crie uma imagem estilo cyberpunk de um servidor protegido por um escudo de energia azul neon, alta resolução."
+* ![Servidor Cyberpunk](outputs/servidor-cyberpunk.png)
 * **Finalidade:** Demonstrar a capacidade criativa do Copilot/DALL-E 3 na criação de recursos visuais para campanhas de conscientização em cibersegurança.
 
 ## 📁 Estrutura do Repositório
