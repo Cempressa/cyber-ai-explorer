@@ -35,5 +35,5 @@ Este repositório foi desenvolvido para o desafio de laboratório da **DIO (Digi
 A exploração do tema "Cyber" através da IA generativa revelou que estas ferramentas são aliadas poderosas no ensino de segurança defensiva. A maior lição deste laboratório foi entender que a eficiência de uma IA não está apenas no que ela pode fazer, mas também nos limites éticos que ela é treinada para respeitar.
 
 ---
-📝 **Desenvolvido por:** [Seu Nome ou Usuário do GitHub]  
+📝 **Desenvolvido por:** Cempressa  
 🔗 **DIO - Lab: Explorando IA Generativa com Microsoft Copilot**
